@@ -1,7 +1,7 @@
 Meta.DisplayName=Holdfast: Nations At War
 Meta.Description=
 Meta.Arch=x86_64
-Meta.Author=lukaswinter - Made with AMP Config Generator
+Meta.Author=lukaswinter
 Meta.URL=https://store.steampowered.com/app/589290/Holdfast_Nations_At_War/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
@@ -73,7 +73,7 @@ Meta.ConfigManifest=holdfast-nations-at-warconfig.json
 Meta.MetaConfigManifest=holdfast-nations-at-warmetaconfig.json
 Meta.ConfigRoot=holdfast-nations-at-war.kvp
 App.RootDir=./holdfast-nations-at-war/
-Meta.DisplayImageSource=steam:1424230
+Meta.DisplayImageSource=steam:589290
 App.BaseDirectory=./holdfast-nations-at-war/1424230/
 App.WorkingDir=1424230
 App.ExecutableWin=1424230\

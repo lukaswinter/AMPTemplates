@@ -2,6 +2,6 @@
     {
         "ConfigFile": "serverconfig.txt",
         "ConfigType": "",
-        "AutoMap": false
+        "AutoMap": true
     }
 ]
