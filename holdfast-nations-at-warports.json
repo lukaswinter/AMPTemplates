@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "20100",
+        "Name": "",
+        "Description": "Port used for main game traffic",
+        "Ref": ""
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "27000",
+        "Name": "Remote Admin Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "RemoteAdminPort"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "DisplayName": "",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "serverConfigFilePath",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverConfigFilePath",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "serverconfig.txt",
+        "Placeholder": "serverconfig.txt",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "logFile",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "logFile",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "logs_output/outputlog_server.txt",
+        "Placeholder": "logs_output/outputlog_server.txt",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "logArchivesDirectory",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "logArchivesDirectory",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "logs_archive/",
+        "Placeholder": "logs_archive/",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
