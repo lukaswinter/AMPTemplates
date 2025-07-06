@@ -1,8 +1,9 @@
 [
     {
         "UpdateStageName": "DL Server",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "589290",
+        "UpdateSourceData": "1424230",
         "UpdateSourceArgs": "1424230",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,

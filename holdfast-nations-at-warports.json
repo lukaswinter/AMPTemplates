@@ -10,7 +10,7 @@
         "Protocol": "UDP",
         "Port": "27000",
         "Name": "Steam Query Port",
-        "Description": "Console Port",
+        "Description": "Port used for main game traffic",
         "Ref": "SteamQueryPort"
     }
 ]
