@@ -2,15 +2,15 @@
     {
         "Protocol": "UDP",
         "Port": "20100",
-        "Name": "",
+        "Name": "Main Port",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "MainPort"
     },
     {
         "Protocol": "UDP",
         "Port": "27000",
-        "Name": "Remote Admin Port",
+        "Name": "Steam Query Port",
         "Description": "Port used for main game traffic",
-        "Ref": "RemoteAdminPort"
+        "Ref": "SteamQueryPort"
     }
 ]

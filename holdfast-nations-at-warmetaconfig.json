@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "serverconfig_default.txt",
+        "ConfigFile": "serverconfig.txt",
         "ConfigType": "",
         "AutoMap": false
     }

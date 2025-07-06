@@ -1,24 +1,14 @@
 [
     {
-        "UpdateStageName": "DL Dedicated Server",
-        "UpdateSourcePlatform": "All",
+        "UpdateStageName": "DL Server",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "1424230",
         "UpdateSourceArgs": "589290",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
         "OneShot": false
-    },
-    {
-        "UpdateStageName": "cp default config",
-        "UpdateSourcePlatform": "All",
-        "UpdateSource": "CopyFilePath",
-        "UpdateSourceData": "./holdfast-nations-at-war/589290/serverconfig.txt",
-        "UpdateSourceArgs": "./holdfast-nations-at-war/589290/serverconfig_default.txt",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": false,
-        "OneShot": true
     }
 ]
